@@ -1,7 +1,7 @@
 # mr-progressbar
 
 ## Preview Pictures
-https://imgur.com/OrzgBjI
+![Preview Screenshot](https://imgur.com/OrzgBjI.jpeg)
 
 * If you need any help join my discord server
 
