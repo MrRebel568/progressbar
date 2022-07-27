@@ -6,4 +6,4 @@
 * If you need any help join my discord server
 
 ## Discord
-- [Join Discord](https://discord.gg/WKhp38uc7Y)
+- [Join Discord](https://discord.gg/XpdWyyT4Nm)
